@@ -1,2 +1,2 @@
-# portfolio_server
-this is a protfolio server contain data 
+# nodejs-products-project
+create api by node.js to show products
